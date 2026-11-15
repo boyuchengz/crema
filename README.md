@@ -1,21 +1,21 @@
-# Crema: Caffeine & Cup Log
+# Crema: Caffeine & Sleep
 
-Know when to have your last coffee, so it doesn’t keep you up.
+Coffee you can sleep on. Crema tells you, in one big number, when to have your last coffee so it’s gone by bedtime.
 
-[**Download on the App Store**](https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757) · [Support](https://boyuchengz.github.io/crema/) · [Privacy policy](https://boyuchengz.github.io/crema/privacy.html)
+[**Download on the App Store**](https://apps.apple.com/us/app/crema-caffeine-sleep/id6819921757) · [Support](https://boyuchengz.github.io/crema/) · [Privacy policy](https://boyuchengz.github.io/crema/privacy.html)
 
-![Crema on iPhone: what a drink would do to tonight, Today with each drink’s last call, and Trends](screenshot.jpg)
+![Crema 3.0 on iPhone: a drink’s effect on tonight, Today with the time one more is fine until, and Sleep with two weeks of nights as moons](screenshot.jpg)
 
 ## What it does
 
-- Estimates the caffeine still in your system from the drinks you log, and when it drops under 50 mg, a level generally considered low enough for sleep.
-- Gives each of your usual drinks a last call: the latest time it still wears off before your bedtime.
-- Shows what a drink would do to tonight before you log it.
-- Trends: caffeine left at bedtime night by night, when your last drink usually is, daily totals, and which drinks bring the most caffeine.
-- An optional reminder 30 minutes before last call.
-- Scan a cup or receipt to fill in the drink, shop, and size. Text recognition runs on the device.
-- Siri, Shortcuts, and Action button support: “Log my usual” and “Can I still have coffee?”
-- No account, no ads, no tracking. Your log stays on your iPhone and exports to CSV.
+- One big time on the first screen: when one more coffee is still fine, and after that, when you’ll be clear for sleep.
+- Tap a cup to log it and see what it changed. Hold a cup to see what it would do to tonight first.
+- Your whole day as one line, from morning to bedtime. Drag along it to read any moment.
+- Every drink drawn, from espresso and cold brew to matcha, energy drinks, and cola, with typical caffeine filled in. Type anything else, or photograph the cup and Crema reads it on your iPhone.
+- Sleep: two weeks of nights as moons, how clear nights compare with the others, and your own cutoff time.
+- Widgets for the Home Screen and Lock Screen, a Control Center button, and Siri: “Can I still have coffee?”
+- A calendar of every cup, with your shops, ratings, notes, and photos. Export it as a spreadsheet.
+- No account, no ads, no tracking. Everything stays on your iPhone.
 
 Caffeine figures are estimates, not medical advice. Requires iOS 26.
 
